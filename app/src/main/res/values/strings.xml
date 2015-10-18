@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MakeMeTravel</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_list">List</string>
+    <string name="action_register">Register</string>
+    <string name="action_Mytrip">My Trip</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="app_id">151728458510737</string>
+    <string-array name="brew_array">
+        <item>City Break</item>
+        <item>Sun and Beach</item>
+        <item>MICE</item>
+        <item>Πολιτιστικός Τουρισµός </item>
+        <item>Ναυτικός Τουρισµός </item>
+        <item>Ιατρικός Τουρισµός </item>
+
+    </string-array>
+</resources>
